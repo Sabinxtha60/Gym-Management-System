@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GymGUI
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ Home()
+comment3.params=
+comment3.target=void\ framesecond()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=id\ name\ location\ phone\ email\ gender\ DOB\ membershipStart\ referalSource\ attendance\ loyalitypoints\ plan\ PlanPrice\ activeStatus
+comment5.target=void\ display_regular_member(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment6.params=id\ name\ location\ phone\ email\ gender\ DOB\ membershipStart\ attendance\ loyaltypoints\ activeStatus\ PersonalTrainer\ paidAmount\ isFullPayment\ RemainingAmount\ discountAmount
+comment6.target=void\ display_premium_member(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment7.params=obj
+comment7.target=void\ SaveDataToFile(java.util.ArrayList)
+comment8.params=
+comment8.target=void\ ReadDataFromFile()
+comment9.params=e
+comment9.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=10

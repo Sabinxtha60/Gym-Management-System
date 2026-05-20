@@ -1,0 +1,2 @@
+Member Type  ID    Name            Location        Phone        Email                     Gender     Trainer         Plan       DOB             Membership Start   Attendance Loyalty points  Active     Discout amt  Full Payment Paid amt  
+Premium      11    as              sss             1234567890   ss                        Female     ss              -          DAY/MONTH/YEAR  DAY/MONTH/YEAR     0          0.0             true       0.0          false        0.0       
